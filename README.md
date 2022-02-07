@@ -4,6 +4,6 @@
 - 👀 I’m interested in building web applications 
 - 🌱 I’m currently learning Python, Django and Java
 - 📫 Please contact me at junektman@gmail.com
-- And don't miss my portfolio:  
+
 
 
